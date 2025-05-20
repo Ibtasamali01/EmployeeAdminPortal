@@ -167,8 +167,7 @@
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Mappings\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:08:33.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T06:08:33.471Z"
             },
             {
               "$type": "Document",
@@ -180,8 +179,7 @@
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmployeeServices.cs",
               "ViewState": "AgIAADYBAAAAAAAAAAAQwFABAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T16:51:07.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T16:51:07.29Z"
             },
             {
               "$type": "Document",
@@ -193,8 +191,7 @@
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmailService.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T04:56:41.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T04:56:41.355Z"
             },
             {
               "$type": "Document",
@@ -206,8 +203,7 @@
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\NotifyController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:58:53.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:58:53.949Z"
             },
             {
               "$type": "Document",
@@ -217,7 +213,7 @@
               "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCAAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T16:50:14.584Z",
               "EditorCaption": ""
@@ -232,8 +228,7 @@
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAASwHsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T16:46:54.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T16:46:54.289Z"
             },
             {
               "$type": "Document",
@@ -245,8 +240,7 @@
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Hubs\\NotificationHub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:35:03.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:35:03.25Z"
             },
             {
               "$type": "Document",
@@ -282,8 +276,7 @@
               "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\VerifyOtpDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:50:11.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:50:11.161Z"
             },
             {
               "$type": "Document",
