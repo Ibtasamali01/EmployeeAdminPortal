@@ -1,0 +1,733 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\controllers\\notifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD36907C-37BA-912F-6BC6-C0540D923CFB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\EmployeeAdminPortal.Service.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD36907C-37BA-912F-6BC6-C0540D923CFB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\EmployeeAdminPortal.Service.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.service\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\requestdtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD36907C-37BA-912F-6BC6-C0540D923CFB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\EmployeeAdminPortal.Service.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.service\\employeeadminportal.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\models\\employee1.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A9245-0471-5AB3-FBAF-4122B8787AA1}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\requestdtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\employeesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\employeeadminportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal1\\employeeadminportala.tests\\controllertests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|solutionrelative:employeeadminportala.tests\\controllertests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal1\\employeeadminportala.tests\\employeeadminportalnunit.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|solutionrelative:employeeadminportala.tests\\employeeadminportalnunit.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F74EFC-AB44-6403-9B24-F978A2D89AE5}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.tests\\contrroller\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F74EFC-AB44-6403-9B24-F978A2D89AE5}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.tests\\services\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal1\\employeeadminportala.tests\\servicetests\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|solutionrelative:employeeadminportala.tests\\servicetests\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal1\\employeeadminportala.tests\\servicetests\\employeeserviceinmemorytestsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88C2117-67FB-413E-A674-8DACE6D949D3}|EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj|solutionrelative:employeeadminportala.tests\\servicetests\\employeeserviceinmemorytestsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F74EFC-AB44-6403-9B24-F978A2D89AE5}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.tests\\employeeadminportalxunit.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\models\\contactinfo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\models\\employeeinfo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\20250504062833_contactinfoemployeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\20250503172015_createcontactinfo1table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D7DFEA-E2CB-495D-3DF4-E42989918221}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.api\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\requestdtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\requestdtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\requestdtos\\employeeinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\requestdtos\\contactinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B517A49F-F44A-06AF-EDA0-1F8ED48C84FB}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.helpers\\requestdtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A9245-0471-5AB3-FBAF-4122B8787AA1}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A9245-0471-5AB3-FBAF-4122B8787AA1}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.repository\\employeeadminportal.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172824_CreateEmployee1AndContactInfo1Tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170254_MoDLE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165855_AddDeletedByColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165319_NewTwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\20250503174816_add_newcontactandemployeetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\20250503173214_createemployee1andcontactinfo1tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\20250503172159_addemployee1andcontactinfo1tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\20250503170522_addauditcolumnstoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DFEAF6-C698-3742-83D8-8311E184E047}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.model\\migrations\\20250503170348_newone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F74EFC-AB44-6403-9B24-F978A2D89AE5}|..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj|c:\\users\\ibtasamali\\source\\repos\\employeeadminportal\\employeeadminportal.tests\\services\\employeeserviceinmemorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:08:33.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmployeeServices.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAQwFABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:51:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\Services\\EmailService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:56:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotifyController.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\NotifyController.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\NotifyController.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\NotifyController.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\NotifyController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:58:53.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:50:14.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAASwHsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:46:54.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:35:03.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeAdminPortal.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\EmployeeAdminPortal.Service.csproj",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\EmployeeAdminPortal.Service.csproj",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\EmployeeAdminPortal.Service.csproj",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Service\\EmployeeAdminPortal.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T09:17:49.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee1.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\Employee1.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\Employee1.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\Employee1.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\Employee1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:09:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerifyOtpDto.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\VerifyOtpDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\VerifyOtpDto.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\VerifyOtpDto.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\VerifyOtpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:50:11.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:46:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAgwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:51:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Program.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Program.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\Program.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwH8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:19:39.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\AddEmployeeDto.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:48:54.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeSettings.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeSettings.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeSettings.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\EmployeeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:51:13.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\appsettings.json",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T17:53:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\ControllerTests\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortalA.Tests\\ControllerTests\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\ControllerTests\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "EmployeeAdminPortalA.Tests\\ControllerTests\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:12:26.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeAdminPortal.API.csproj",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T16:47:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeAdminPortalNUnit.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj",
+              "RelativeToolTip": "EmployeeAdminPortalA.Tests\\EmployeeAdminPortalNUnit.Tests.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T04:51:24.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceTests.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceTests.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:58:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Contrroller\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Contrroller\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Contrroller\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Contrroller\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:17:32.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeServiceInMemoryTestsN.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceInMemoryTestsN.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceInMemoryTestsN.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceInMemoryTestsN.cs",
+              "RelativeToolTip": "EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceInMemoryTestsN.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:00:28.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceTests.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceTests.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceTests.cs",
+              "RelativeToolTip": "EmployeeAdminPortalA.Tests\\ServiceTests\\EmployeeServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:01:02.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmployeeServiceInMemoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceInMemoryTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceInMemoryTests.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceInMemoryTests.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\Services\\EmployeeServiceInMemoryTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:33:12.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeAdminPortalXUnit.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Tests\\EmployeeAdminPortalXUnit.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T04:18:59.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContactInfo1.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\ContactInfo1.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\ContactInfo1.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\ContactInfo1.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\ContactInfo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:08:07.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeInfo1.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\EmployeeInfo1.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\EmployeeInfo1.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\EmployeeInfo1.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Models\\EmployeeInfo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:03:08.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250504062833_ContactInfoEmployeeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250504062833_ContactInfoEmployeeInfo.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250504062833_ContactInfoEmployeeInfo.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250504062833_ContactInfoEmployeeInfo.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250504062833_ContactInfoEmployeeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:28:33.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250503172015_CreateContactInfo1Table.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172015_CreateContactInfo1Table.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172015_CreateContactInfo1Table.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172015_CreateContactInfo1Table.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172015_CreateContactInfo1Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:20:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContactInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\ContactInfoDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\ContactInfoDto.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\ContactInfoDto.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\ContactInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:12:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\launchSettings.json",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.API\\launchSettings.json",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T04:15:50.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\PagedResult.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:52:50.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\EmployeeInfoDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\EmployeeInfoDto.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\EmployeeInfoDto.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\EmployeeInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:33:33.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:08:46.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Helpers\\RequestDTOs\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:12:16.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:51:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:54:06.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmployeeAdminPortal.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T17:13:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250503174816_Add_NewContactAndEmployeeTables.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503174816_Add_NewContactAndEmployeeTables.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503174816_Add_NewContactAndEmployeeTables.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503174816_Add_NewContactAndEmployeeTables.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503174816_Add_NewContactAndEmployeeTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:48:16.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250503173214_CreateEmployee1AndContactInfo1Tables.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503173214_CreateEmployee1AndContactInfo1Tables.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503173214_CreateEmployee1AndContactInfo1Tables.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503173214_CreateEmployee1AndContactInfo1Tables.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503173214_CreateEmployee1AndContactInfo1Tables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:32:14.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250503172824_CreateEmployee1AndContactInfo1Tables.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172824_CreateEmployee1AndContactInfo1Tables.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172824_CreateEmployee1AndContactInfo1Tables.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172824_CreateEmployee1AndContactInfo1Tables.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172824_CreateEmployee1AndContactInfo1Tables.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:28:24.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250503172159_AddEmployee1AndContactInfo1Tables.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172159_AddEmployee1AndContactInfo1Tables.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172159_AddEmployee1AndContactInfo1Tables.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172159_AddEmployee1AndContactInfo1Tables.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503172159_AddEmployee1AndContactInfo1Tables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:21:59.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250503170522_AddAuditColumnsToEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170522_AddAuditColumnsToEmployee.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170522_AddAuditColumnsToEmployee.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170522_AddAuditColumnsToEmployee.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170522_AddAuditColumnsToEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:05:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250503170348_NewOne.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170348_NewOne.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170348_NewOne.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170348_NewOne.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170348_NewOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:03:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250503170254_MoDLE.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170254_MoDLE.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170254_MoDLE.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170254_MoDLE.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503170254_MoDLE.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:02:54.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250503165855_AddDeletedByColumn.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165855_AddDeletedByColumn.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165855_AddDeletedByColumn.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165855_AddDeletedByColumn.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165855_AddDeletedByColumn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:58:55.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250503165319_NewTwo.cs",
+              "DocumentMoniker": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165319_NewTwo.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165319_NewTwo.cs",
+              "ToolTip": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165319_NewTwo.cs",
+              "RelativeToolTip": "..\\EmployeeAdminPortal\\EmployeeAdminPortal.Model\\Migrations\\20250503165319_NewTwo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:53:19.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

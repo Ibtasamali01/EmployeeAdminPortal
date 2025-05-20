@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EmployeeAdminPortal.Helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EmployeeAdminPortal.Helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeAdminPortal.Helpers.dll": {}
+        }
+      },
+      "EmployeeAdminPortal.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EmployeeAdminPortal.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeAdminPortal.Model.dll": {}
+        }
+      },
+      "EmployeeAdminPortal.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EmployeeAdminPortal.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeAdminPortal.Repository.dll": {}
+        }
+      },
+      "EmployeeAdminPortal.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EmployeeAdminPortal.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeAdminPortal.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeAdminPortal.Helpers/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeAdminPortal.Helpers/EmployeeAdminPortal.Helpers.csproj",
+      "msbuildProject": "../EmployeeAdminPortal.Helpers/EmployeeAdminPortal.Helpers.csproj"
+    },
+    "EmployeeAdminPortal.Model/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeAdminPortal.Model/EmployeeAdminPortal.Model.csproj",
+      "msbuildProject": "../EmployeeAdminPortal.Model/EmployeeAdminPortal.Model.csproj"
+    },
+    "EmployeeAdminPortal.Repository/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeAdminPortal.Repository/EmployeeAdminPortal.Repository.csproj",
+      "msbuildProject": "../EmployeeAdminPortal.Repository/EmployeeAdminPortal.Repository.csproj"
+    },
+    "EmployeeAdminPortal.Services/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeAdminPortal.Services/EmployeeAdminPortal.Services.csproj",
+      "msbuildProject": "../EmployeeAdminPortal.Services/EmployeeAdminPortal.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EmployeeAdminPortal.Helpers >= 1.0.0",
+      "EmployeeAdminPortal.Model >= 1.0.0",
+      "EmployeeAdminPortal.Repository >= 1.0.0",
+      "EmployeeAdminPortal.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IbtasamAli\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj",
+      "projectName": "EmployeeAdminPortal.API",
+      "projectPath": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.API\\EmployeeAdminPortal.API.csproj",
+      "packagesPath": "C:\\Users\\IbtasamAli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\IbtasamAli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj": {
+              "projectPath": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Helpers\\EmployeeAdminPortal.Helpers.csproj"
+            },
+            "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj": {
+              "projectPath": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Model\\EmployeeAdminPortal.Model.csproj"
+            },
+            "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj": {
+              "projectPath": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Repository\\EmployeeAdminPortal.Repository.csproj"
+            },
+            "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj": {
+              "projectPath": "C:\\Users\\IbtasamAli\\source\\repos\\EmployeeAdminPortal1\\EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

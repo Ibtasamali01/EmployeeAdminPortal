@@ -1,0 +1,14 @@
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\bin\Debug\net8.0\EmployeeAdminPortal.Model.deps.json
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\bin\Debug\net8.0\EmployeeAdminPortal.Model.runtimeconfig.json
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\bin\Debug\net8.0\EmployeeAdminPortal.Model.dll
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\bin\Debug\net8.0\EmployeeAdminPortal.Model.pdb
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.csproj.AssemblyReference.cache
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.AssemblyInfoInputs.cache
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.AssemblyInfo.cs
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.csproj.CoreCompileInputs.cache
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.dll
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\refint\EmployeeAdminPortal.Model.dll
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.pdb
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\EmployeeAdminPortal.Model.genruntimeconfig.cache
+C:\Users\IbtasamAli\source\repos\EmployeeAdminPortal1\EmployeeAdminPortal.Model\obj\Debug\net8.0\ref\EmployeeAdminPortal.Model.dll
