@@ -1,0 +1,7 @@
+# Visual Studio ki temporary files ko ignore karein
+.vs/
+*.user
+*.suo
+*.vsidx
+*.db
+*.cache
